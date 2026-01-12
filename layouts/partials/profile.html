@@ -1,0 +1,80 @@
+{{ $ := .root }}
+{{ $page := .page }}
+
+{{ $author := "" }}
+{{ if .author }}
+  {{ $author = .author }}
+{{ else }}
+  {{ $author = $page.Params.author }}
+{{end}}
+
+
+{{ $author = $author | default "admin" }}
+
+
+
+
+{{ $person_page_path := (printf "/authors/%s" $author) }}
+{{ $person_page := site.GetPage $person_page_path }}
+{{ if not $person_page }}
+  {{ errorf "Could not find an author page at  `%s`. Please check the value of `author` in your About widget and create an associated author page if one does not already exist. See https://wowchemy.com/docs/page-builder/#about " $person_page_path }}
+{{end}}
+{{ $person := $person_page.Params }}
+{{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
+{{ $avatar_shape := site.Params.features.avatar.shape | default "circle" }}
+
+
+<div id="profile">
+
+  {{ if site.Params.features.avatar.gravatar }}
+    <img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="https://s.gravatar.com/avatar/{{ md5 $person.email }}?s=270')" alt="{{$person_page.Title}}">
+  {{ else if $avatar }}
+    {{ $avatar_image := $avatar.Fill "270x270 Center" }}
+    <img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}"
+         width="{{ $avatar_image.Width }}" height="{{ $avatar_image.Height }}"
+         src="{{ $avatar_image.RelPermalink }}" alt="{{$person_page.Title}}">
+  {{ end }}
+
+  <div class="portrait-title">
+
+    <h2>
+      {{- if $person.name_pronunciation -}}
+        <ruby>
+          <rb>{{ $person_page.Title }}</rb>
+          <rt>{{ $person.name_pronunciation }}</rt>
+        </ruby>
+      {{- else -}}
+        {{- $person_page.Title -}}
+      {{- end -}}
+    </h2>
+
+    {{ with $person.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
+
+    {{ range $person.organizations }}
+      <h3>
+        {{ with .url }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end }}
+          <span>{{ .name }}</span>
+          {{ if .url }}</a>{{ end }}
+      </h3>
+    {{ end }}
+  </div>
+
+
+  {{ with $person.social_list }}
+
+    <div class="network-icon-wrap pc-only">
+      {{ range $person.social_list }}
+      <div class=network-icon-list>
+          {{with .link}}<a class="social-icon-link" href="{{.}}">{{end}}
+            <i class="{{.icon}}"></i>{{.desc}}
+          {{with .link}}</a>{{end}}
+      </div>
+      {{ end }}
+    </div>
+
+
+
+  {{ end }}
+
+
+</div>

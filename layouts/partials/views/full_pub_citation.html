@@ -1,0 +1,53 @@
+{{ $item := .item }}
+{{ $has_attachments := partial "functions/has_attachments" $item }}
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>{{.index}}.
+
+
+
+  <a href="{{ $item.link }}">{{ $item.title | markdownify }}</a>.
+
+  <span class="article-metadata li-cite-author">
+    {{- $item.authors | markdownify -}},
+  </span>
+
+  <span class="pub-jan">{{ $item.journal | markdownify }}</span>
+
+
+
+  {{ with $item.year}}
+  <span class="pub-year">{{ . | markdownify }}</span>
+  {{ end }}
+
+
+
+  {{ with $item.volume}}
+  <span class="pub-volume">{{ . | markdownify }}</span>
+  {{ end }}
+
+
+  {{ with $item.pages}}
+  <span class="pub-pages">{{ . | markdownify }}</span>
+  {{ end }}
+
+
+  {{ with $item.id}}
+  <span class="pub-id">{{ . | markdownify }}</span>
+  {{ end }}
+
+
+
+  <p>{{ partial "page_links" (dict "page" $item "is_list" 1) }}
+
+    {{ range $index2, $link_item := $item.extra_links  }}
+    <a class="btn btn-outline-primary btn-page-header btn-sm " href="{{ $link_item.url }}" target="_blank" rel="noopener">
+      {{ $link_item.name  | markdownify  }}
+    </a>
+    {{ end }}
+
+
+  </p>
+
+
+</div>

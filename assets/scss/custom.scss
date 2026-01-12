@@ -1,0 +1,90 @@
+// Override this file to add your own SCSS styling.
+
+//$text-primary-color: #ff3860;
+
+$font_family_tsinghua: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+
+
+
+
+body {
+  font-family: $font_family_tsinghua;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font_family_tsinghua;
+}
+
+.navbar {
+  box-shadow: 0 0.25rem 0 0 #734685;
+  .nav-link {
+    font-size: 1rem;
+  }
+}
+
+
+.home-section {
+  background: #fff;
+}
+.home-section:nth-of-type(even) {
+  background: #fff;
+}
+.home-section:first-of-type {
+  padding-top: 1rem;
+}
+
+.share-box {
+  display: none;
+}
+
+
+
+
+
+
+
+
+#profile {
+  .portrait-title {
+    h2 {
+      font-size: 1.2rem;
+    }
+  }
+  .network-icon-wrap {
+    .network-icon-list {
+      text-align: left;
+      padding: 0.5rem 0 0.5rem 20%;
+    }
+  }
+}
+
+
+
+.article-container {
+  max-width: unset;
+}
+
+
+
+
+/*电脑端展示*/
+@media (min-width: 780px) {
+}
+
+
+
+// 手机
+@media (max-width: 780px) {
+
+  #profile {
+    .network-icon-wrap {
+      .network-icon-list {
+        padding: 0.5rem 0 0 32%
+      }
+    }
+  }
+
+
+
+
+
+}

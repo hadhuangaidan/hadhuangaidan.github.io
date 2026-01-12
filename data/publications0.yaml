@@ -1,0 +1,302 @@
+full_publications:
+
+  - title: "A Hydro-Expansive and Degradable Biomaterial Enabling Shape Recovery of Film-Based Devices in Biofluids"
+    link: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202510140"
+    authors: "R. Wang, J. Sui, **P. Chen**, Z. Silva-Pedraza, J. Bontekoe, J. Kim, P. Li, F. Pan, E. Schmuck, S. Osaki, B. Liu, X. Wang"
+    journal: "Adv. Mater."
+    year: 2025
+    id: "e10140"
+    extra_links:
+      - name: pdf
+        url: https://nanoscience.engr.wisc.edu/wp-content/uploads/2025/07/Advanced-Materials-2025-Wang-A-Hydro%E2%80%90Expansive-and-Degradable-Biomaterial-Enabling-Shape-Recovery-of-Film%E2%80%90Based.pdf
+      - name: support information
+        url: https://nanoscience.engr.wisc.edu/wp-content/uploads/2025/07/Advanced-Materials-2025-Wang-A-Hydro%E2%80%90Expansive-and-Degradable-Biomaterial-Enabling-Shape-Recovery-of-Film%E2%80%90Based-suppmat.docx
+
+  - title: "A Self-Sustainable, Ultrarobust and High-Power-Density Triboelectric Nanogenerator for In Situ Powering of Marine Internet of Things"
+    link: "https://doi.org/10.1002/adma.202511283"
+    authors: "**P. Chen**, Z. Zhang, C. Ye, Y. Jiang, L. Chen, Z. Xu, M. Xu, Z. Hong, T. Jiang, Z. L. Wang"
+    journal: "Adv. Mater."
+    year: 2025
+    id: "e11283"
+
+  - title: "Flexible Proton-Conducting Biocomposites Based on Amino Acid Biomolecules"
+    link: "https://doi.org/10.1021/acs.nanolett.5c01801"
+    authors: "J. Sui, S. Wang, R. Wang, **P. Chen**, W. Liu, C. Jia, F. Pan, X. Wang"
+    journal: "Nano Lett."
+    year: 2025
+
+  - title: "Instantaneous Piezoelectric Nanogenerator for Pacemaker Applications"
+    link: "https://www.sciencedirect.com/science/article/pii/S2211285525001879"
+    authors: "D. Wang, W. Liu, L. Gu, E. Schmuck, T. Hacker, **P. Chen**, J. Sui, X. Wang"
+    journal: "Nano Energy"
+    year: 2025
+    volume: 138
+    id: "110828"
+
+  - title: "Inhibitory Effects on Smooth Muscle Cell Adhesion and Proliferation due to Oscillating Electric Fields by Nanogenerators"
+    link: "https://pubs.rsc.org/en/content/articlehtml/2025/nr/d4nr04405c"
+    authors: "Z. S. Pedraza, F. Pan, **P. Chen**, S. M. Rosario, G. Wu, D. Wang, J. Kim, Q. Yang, X. Wang"
+    journal: "Nanoscale"
+    year: 2025
+    volume: "17 (12)"
+    pages: "7244-7252"
+
+  - title: "Advanced Energy Harvesting from Low-Frequency Ocean Waves for Lithium-Ion Battery Applications"
+    link: "https://pubs.rsc.org/en/content/articlehtml/2018/ag/d5ee01492a"
+    authors: "Y. Luo, W. Lei, **P. Chen**, T. Jiang, A. Liu, M. Ye, Z. Xu, Z. L. Wang, W. Guo"
+    journal: "Energy Environ. Sci."
+    year: 2025
+    volume: "18 (10)"
+    pages: "4821-4832"
+
+  - title: "High-Performance Triboelectric Nanogenerator Based on a Double-Spiral Zigzag-Origami Structure for Continuous Sensing and Signal Transmission in Marine Environment"
+    link: "https://onlinelibrary.wiley.com/doi/abs/10.1002/idm2.12226"
+    authors: "Y. Jiang‡, **P. Chen**‡, J. Han, X. Liang, Y. Ming, S. Liu, T. Jiang, Z. L. Wang"
+    journal: "Interdiscip. Mater."
+    year: 2025
+    volume: "4 (1)"
+    pages: "201-212"
+
+  - title: "High-Durability Stacked Disc-Type Rolling Triboelectric Nanogenerators for Environmental Monitoring Around Charging Buoys of Unmanned Ships"
+    link: "https://onlinelibrary.wiley.com/doi/abs/10.1002/smll.202310809"
+    authors: "X. Wang, L. Chen, Z. Xu, **P. Chen**, C. Ye, B. Chen, T. Jiang, Z. Hong, Z. L. Wang"
+    journal: "Small"
+    year: 2024
+    volume: "20 (23)"
+    id: "2310809"
+
+  - title: "Durable Roller-Based Swing-Structured Triboelectric Nanogenerator for Water Wave Energy Harvesting"
+    link: "https://onlinelibrary.wiley.com/doi/abs/10.1002/smll.202307288"
+    authors: "Z. Xu, L. Chen, Z. Zhang, J. Han, **P. Chen**, Z. Hong, T. Jiang, Z. L. Wang"
+    journal: "Small"
+    year: 2024
+    volume: "20 (15)"
+    id: "2307288"
+
+  - title: "Achieving High Power Density and Durability of Multilayered Swing-Structured Triboelectric Nanogenerator Toward Marine Environmental Protection"
+    link: "https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202311196"
+    authors: "X. Wang, C. Ye, **P. Chen**, H. Pang, C. Wei, Y. Duan, T. Jiang, Z. L. Wang"
+    journal: "Adv. Funct. Mater."
+    year: 2024
+    volume: "34 (6)"
+    id: "2311196"
+
+  - title: "Bionic Underwater Multimodal Sensor Inspired by Fish Lateralis Neuromasts"
+    link: "https://www.cell.com/device/fulltext/S2666-9986(23)00292-2"
+    authors: "S. Shu, T. Wang, J. He, **P. Chen**, S. Xu, C. Li, M. Xu, W. Tang"
+    journal: "Device"
+    year: 2023
+    volume: "1 (5)"
+
+  - title: "Scalable Rolling-Structured Triboelectric Nanogenerator with High Power Density for Water Wave Energy Harvesting Toward Marine Environmental Monitoring"
+    link: "https://link.springer.com/article/10.1007/s12274-023-6035-x"
+    authors: "Y. Duan, H. Xu, S. Liu, **P. Chen**, X. Wang, L. Xu, T. Jiang, Z. L. Wang"
+    journal: "Nano Res."
+    year: 2023
+    volume: "16 (9)"
+    pages: "11646-11652"
+
+  - title: "Machine-Learning Assisted Electronic Skins Capable of Proprioception and Exteroception in Soft Robotics"
+    link: "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202211385"
+    authors: "S. Shu, Z. Wang, **P. Chen**, J. Zhong, W. Tang, Z. L. Wang"
+    journal: "Adv. Mater."
+    year: 2023
+    volume: "35 (18)"
+    id: "2211385"
+
+  - title: "Multilayered Helical Spherical Triboelectric Nanogenerator with Charge Shuttling for Water Wave Energy Harvesting"
+    link: "https://onlinelibrary.wiley.com/doi/abs/10.1002/smtd.202201392"
+    authors: "S. Liu, X. Liang, **P. Chen**, H. Long, T. Jiang, Z. L. Wang"
+    journal: "Small Methods"
+    year: 2023
+    volume: "7 (3)"
+    id: "2201392"
+
+  - title: "Highly Adaptive Triboelectric-Electromagnetic Hybrid Nanogenerator for Scavenging Flow Energy and Self-Powered Marine Wireless Sensing"
+    link: "https://onlinelibrary.wiley.com/doi/abs/10.1002/admt.202201245"
+    authors: "Y. Wang, Z. Qian, C. Zhao, Y. Wang, K. Jiang, J. Wang, Z. Meng, F. Li, C. Zhu, **P. Chen**"
+    journal: "Adv. Mater. Technol."
+    year: 2023
+    volume: "8 (4)"
+    id: "2201245"
+
+  - title: "A Strong, Biodegradable, and Recyclable All-Lignocellulose Fabricated Triboelectric Nanogenerator for Self-Powered Disposable Medical Monitoring"
+    link: "https://pubs.rsc.org/en/content/articlehtml/2020/qb/d3ta01763j"
+    authors: "X. Shi, **P. Chen**, K. Han, C. Li, R. Zhang, J. Luo, Z. L. Wang"
+    journal: "J. Mater. Chem. A"
+    year: 2023
+    volume: "11 (22)"
+    pages: "11730-11739"
+
+  - title: "Sustainable Long-Term and Wide-Area Environment Monitoring Network Based on Distributed Self-Powered Wireless Sensing Nodes"
+    link: "https://onlinelibrary.wiley.com/doi/abs/10.1002/aenm.202202691"
+    authors: "D. Liu, C. Li, **P. Chen**, X. Zhao, W. Tang, Z. L. Wang"
+    journal: "Adv. Energy Mater."
+    year: 2023
+    volume: "13 (2)"
+    id: "2202691"
+
+  - title: "Integrated Solar Panel with Triboelectric Nanogenerator Array for Synergistic Harvesting of Raindrop and Solar Energy"
+    link: "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202209713"
+    authors: "C. Ye‡, D. Liu‡, **P. Chen**‡, L. N. Y. Cao, X. Li, T. Jiang, Z. L. Wang"
+    journal: "Adv. Mater."
+    year: 2022
+    id: "2209713"
+
+  - title: "Strong and Flame-Retardant Wood-Based Triboelectric Nanogenerators Toward Self-Powered Building Fire Protection"
+    link: "https://www.sciencedirect.com/science/article/pii/S2542529322001961"
+    authors: "J. Luo, X. Shi, **P. Chen**, K. Han, X. Li, X. Cao, Z. L. Wang"
+    journal: "Mater. Today Phys."
+    year: 2022
+    volume: 27
+    id: "100798"
+
+  - title: "Achieving High Power Density and Durability of Sliding Mode Triboelectric Nanogenerator by Double Charge Supplement Strategy"
+    link: "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/aenm.202201813"
+    authors: "**P. Chen**, Y. Luo, R. Cheng, S. Shu, J. An, A. Berbille, T. Jiang, Z. L. Wang"
+    journal: "Adv. Energy Mater."
+    year: 2022
+    volume: "12 (33)"
+    id: "2201813"
+
+  - title: "A Novel Flow Sensing and Controlling System Based on the Flapping Film Triboelectric Nanogenerator Toward Smart Factories"
+    link: "https://www.sciencedirect.com/science/article/pii/S092442472200365X"
+    authors: "X. Wang, C. Zhu, M. Wu, J. Zhang, **P. Chen**, H. Chen, C. Jia, X. Liang, M. Xu"
+    journal: "Sens. Actuators A Phys."
+    year: 2022
+    volume: 344
+    id: "113727"
+
+  - title: "Durability Improvement of Breeze-Driven Triboelectric-Electromagnetic Hybrid Nanogenerator by a Travel-Controlled Approach"
+    link: "https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202205710"
+    authors: "Y. Luo‡, **P. Chen**‡, L. N. Y. Cao, Z. Xu, Y. Wu, G. He, T. Jiang, Z. L. Wang"
+    journal: "Adv. Funct. Mater."
+    year: 2022
+    volume: "32 (39)"
+    id: "2205710"
+
+  - title: "Self-Powered High-Voltage Recharging System for Removing Noxious Tobacco Smoke by Biomimetic Hairy-Contact Triboelectric Nanogenerator"
+    link: "https://onlinelibrary.wiley.com/doi/abs/10.1002/smll.202202835"
+    authors: "J. Zhang‡, **P. Chen**‡, L. Zu‡, J. Yang, Y. Sun, H. Li, B. Chen, Z. L. Wang"
+    journal: "Small"
+    year: 2022
+    volume: "18 (33)"
+    id: "2202835"
+
+  - title: "Enhanced Output of On-Body Direct-Current Power Textiles by Efficient Energy Management for Sustainable Working of Mobile Electronics"
+    link: "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/aenm.202201532"
+    authors: "R. Cheng‡, C. Ning‡, **P. Chen**‡, F. Sheng, C. Wei, Y. Zhang, X. Peng, K. Dong, D. Liu, Z. L. Wang"
+    journal: "Adv. Energy Mater."
+    year: 2022
+    volume: "12 (29)"
+    id: "2201532"
+
+  - title: "Flexible Film-Discharge-Switch Assisted Universal Power Management System for the Four Operation Modes of Triboelectric Nanogenerators"
+    link: "https://onlinelibrary.wiley.com/doi/abs/10.1002/aenm.202103677"
+    authors: "W. Yan, Y. Liu, **P. Chen**, L. N. Y. Cao, J. An, T. Jiang, W. Tang, B. Chen, Z. L. Wang"
+    journal: "Adv. Energy Mater."
+    year: 2022
+    volume: "12 (11)"
+    id: "2103677"
+
+  - title: "Methods for Correctly Characterizing the Output Performance of Nanogenerators"
+    link: "https://www.sciencedirect.com/science/article/pii/S2211285521011332"
+    authors: "J. An‡, **P. Chen**‡, C. Li, F. Li, T. Jiang, Z. L. Wang"
+    journal: "Nano Energy"
+    year: 2022
+    volume: 93
+    id: "106884"
+
+  - title: "A Stackable Triboelectric Nanogenerator for Wave-Driven Marine Buoys"
+    link: "https://www.mdpi.com/2079-4991/12/4/594"
+    authors: "H. Wang, C. Zhu, W. Wang, R. Xu, **P. Chen**, T. Du, T. Xue, Z. Wang, M. Xu"
+    journal: "Nanomaterials"
+    year: 2022
+    volume: "12 (4)"
+    id: "594"
+
+  - title: "Wind-Driven Soft-Contact Rotary Triboelectric Nanogenerator Based on Rabbit Fur with High Performance and Durability for Smart Farming"
+    link: "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202108580"
+    authors: "J. Han‡, Y. Feng‡, **P. Chen**‡, X. Liang, H. Pang, T. Jiang, Z. L. Wang"
+    journal: "Adv. Funct. Mater."
+    year: 2022
+    volume: "32 (2)"
+    id: "2108580"
+
+  - title: "Segmented Swing-Structured Fur-Based Triboelectric Nanogenerator for Harvesting Blue Energy Toward Marine Environmental Applications"
+    link: "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202106398"
+    authors: "H. Pang, Y. Feng, J. An, **P. Chen**, J. Han, T. Jiang, Z. L. Wang"
+    journal: "Adv. Funct. Mater."
+    year: 2021
+    volume: "31 (47)"
+    id: "2106398"
+
+  - title: "Active-Sensing Epidermal Stretchable Bioelectronic Patch for Noninvasive, Conformal, and Wireless Tendon Monitoring"
+    link: "https://spj.science.org/doi/10.34133/2021/9783432"
+    authors: "S. Shu‡, J. An‡, **P. Chen**‡, D. Liu, Z. Wang, C. Li, S. Zhang, Y. Liu, J. Luo, L. Zu, Z. L. Wang"
+    journal: "Research"
+    year: 2021
+
+  - title: "Biomimetic Hairy Whiskers for Robotic Skin Tactility"
+    link: "https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202101891"
+    authors: "J. An‡, **P. Chen**‡, Z. Wang, A. Berbille, H. Pang, Y. Jiang, T. Jiang, Z. L. Wang"
+    journal: "Adv. Mater."
+    year: 2021
+    volume: "33 (24)"
+    id: "2101891"
+
+  - title: "Spherical Triboelectric Nanogenerator Based on Spring-Assisted Swing Structure for Effective Water Wave Energy Harvesting"
+    link: "https://www.sciencedirect.com/science/article/pii/S221128552100094X"
+    authors: "X. Liang, Z. Liu, Y. Feng, J. Han, L. Li, J. An, **P. Chen**, T. Jiang, Z. L. Wang"
+    journal: "Nano Energy"
+    year: 2021
+    volume: 83
+    id: "105836"
+
+  - title: "Super-Durable, Low-Wear, and High-Performance Fur-Brush Triboelectric Nanogenerator for Wind and Water Energy Harvesting for Smart Agriculture"
+    link: "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/aenm.202003066"
+    authors: "**P. Chen**, J. An, S. Shu, R. Cheng, J. Nie, T. Jiang, Z. L. Wang"
+    journal: "Adv. Energy Mater."
+    year: 2021
+    volume: "11 (9)"
+    id: "2003066"
+
+  - title: "High Output Direct-Current Power Fabrics Based on the Air Breakdown Effect"
+    link: "https://pubs.rsc.org/en/content/articlehtml/2009/zm/d1ee00059d"
+    authors: "R. Cheng, K. Dong, **P. Chen**, C. Ning, X. Peng, Y. Zhang, D. Liu, Z. L. Wang"
+    journal: "Energy Environ. Sci."
+    year: 2021
+    volume: "14 (4)"
+    pages: "2460-2471"
+
+  - title: "Rationally Segmented Triboelectric Nanogenerator with a Constant Direct-Current Output and Low Crest Factor"
+    link: "https://pubs.rsc.org/en/content/articlehtml/2012/yq/d1ee01382c"
+    authors: "**P. Chen**, J. An, R. Cheng, S. Shu, A. Berbille, T. Jiang, Z. L. Wang"
+    journal: "Energy Environ. Sci."
+    year: 2021
+    volume: "14 (8)"
+    pages: "4523-4532"
+
+  - title: "Reliable Mechatronic Indicator for Self-Powered Liquid Sensing Toward Smart Manufacture and Safe Transportation"
+    link: "https://www.sciencedirect.com/science/article/pii/S1369702120302133"
+    authors: "J. An, Z. Wang, T. Jiang, **P. Chen**, X. Liang, J. Shao, J. Nie, M. Xu, Z. L. Wang"
+    journal: "Mater. Today"
+    year: 2020
+    volume: 41
+    pages: "10-20"
+
+  - title: "Flame-Retardant Textile-Based Triboelectric Nanogenerators for Fire Protection Applications"
+    link: "https://pubs.acs.org/doi/abs/10.1021/acsnano.0c07148"
+    authors: "R. Cheng, K. Dong, L. Liu, C. Ning, **P. Chen**, X. Peng, D. Liu, Z. L. Wang"
+    journal: "ACS Nano"
+    year: 2020
+    volume: "14 (11)"
+    pages: "15853-15863"
+
+  - title: "Honeycomb Structure Inspired Triboelectric Nanogenerator for Highly Effective Vibration Energy Harvesting and Self-Powered Engine Condition Monitoring"
+    link: "https://onlinelibrary.wiley.com/doi/abs/10.1002/aenm.201902460"
+    authors: "X. Xiao, X. Zhang, S. Wang, H. Ouyang, **P. Chen**, L. Song, H. Yuan, Y. Ji, Z. L. Wang"
+    journal: "Adv. Energy Mater."
+    year: 2019
+    volume: "9 (40)"
+    id: "1902460"
